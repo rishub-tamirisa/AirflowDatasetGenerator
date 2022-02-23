@@ -1,3 +1,3 @@
 # AirflowDatasetGenerator
 
-Generate synthetic airflow data to simulatin apnea events for ML training purposes.
+Generate synthetic airflow data to simulate apnea events for ML training purposes.
